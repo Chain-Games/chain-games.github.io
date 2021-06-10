@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>testnet | Chain Games</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
+	<description></description>
+	<lastBuildDate>Thu, 22 Oct 2020 08:27:16 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7</generator>
+	<item>
+		<title>How to Play on MATIC Testnet</title>
+		<link>./../../../how-to-play-on-matic-testnet/index.html</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Fri, 04 Sep 2020 20:25:51 +0000</pubDate>
+				<category><![CDATA[Super Crypto Kart]]></category>
+		<category><![CDATA[testnet]]></category>
+		<category><![CDATA[matic]]></category>
+		<category><![CDATA[super crypto kart]]></category>
+		<guid isPermaLink="false">https://dev.chaingames.io/?p=1</guid>
+
+					<description><![CDATA[<p>We are proud to announce we have collaborated &#38; integrated with Layer 2 provider MATIC network to enable SUPER FAST and SUPER CHEAP Ethereum transactions for all games on the Chain Games decentralized gaming ecosystem providing a superior UX for all users! We are LIVE on testnet right now with the MATIC solution and here [&#8230;]</p>
+The post <a href="./../../../how-to-play-on-matic-testnet/index.html">How to Play on MATIC Testnet</a> first appeared on <a href="./../../../index.html">Chain Games</a>.]]></description>
+										<content:encoded><![CDATA[<p><span style="font-weight: 400;">We are proud to announce we have collaborated &amp; integrated with Layer 2 provider <span style="color: #ff6600;"><a style="color: #ff6600;" href="https://matic.network/">MATIC network</a></span> to enable <em><strong>SUPER FAST</strong></em> and <em><strong>SUPER CHEAP</strong></em> Ethereum transactions for all games on the Chain Games decentralized gaming ecosystem providing a superior UX for all users!</span><span style="font-weight: 400;"><br />
+</span><span style="font-weight: 400;"><br />
+</span><span style="font-weight: 400;">We are LIVE on testnet right now with the <strong>MATIC</strong> solution and here at <span style="color: #ff6600;"><a style="color: #ff6600;" href="https://twitter.com/RealChainGames">@RealChainGames</a></span> we like to under promise and over deliver!  That’s why we are bringing you the full mainnet implementation of this solution a full day early and will be releasing it <em><strong>tomorrow</strong></em> Sept 24th instead of our original plan of Sept 25th!</span></p>
+<p>It&#8217;s super easy to get started to play on testnet until mainnet is released tomorrow.</p>
+<h3><strong>How to Setup Your Environment for MATIC Testnet Play:</strong></h3>
+<p><strong style="font-size: inherit;">Step 1: You will next need some testnet $ETH and testnet $CHAIN.  Make sure you switch your Metamask to &#8220;<span style="color: #ff6600;"><a style="color: #ff6600;" href="./../../../wp-content/uploads/2020/10/goerli.png">Goerli Test Network</a></span>&#8220;.</strong></p>
+<p>Testnet <strong>$ETH</strong> &#8211; <a href="https://goerli-faucet.slock.it/"><span style="color: #ff6600;">https://goerli-faucet.slock.it/</span></a> or from <span style="color: #ff6600;"><a style="color: #ff6600;" href="https://faucet.goerli.mudit.blog/">https://faucet.goerli.mudit.blog/</a></span></p>
+<p>Testnet <strong>$CHAIN</strong> &#8211; <span style="color: #ff6600;"><a style="color: #ff6600;" href="https://faucet.chaingames.io/">https://faucet.chaingames.io/</a></span></p>
+<p><strong>Step 2: Fund your gaming session &#8211; </strong><span style="color: #ff6600;"><a style="color: #ff6600;" href="https://wallet-testnet.chaingames.io/">https://wallet-testnet.chaingames.io/</a></span></p>
+<p><strong>Step 3: Download and install Super Crypto Kart for your desired platform:</strong></p>
+<p>Windows – <span style="color: #ff6600;"><a style="color: #ff6600;" href="https://d3op4twapqdg5r.cloudfront.net/SuperCryptoKart-v2.2.0-installer-64bit.exe">https://d3op4twapqdg5r.cloudfront.net/SuperCryptoKart-v2.2.0-installer-64bit.exe</a></span><br />
+Mac OS – <span style="color: #ff6600;"><a style="color: #ff6600;" href="https://d3op4twapqdg5r.cloudfront.net/SuperCryptoKart-v2.2.0.dmg">https://d3op4twapqdg5r.cloudfront.net/SuperCryptoKart-v2.2.0.dmg</a></span><br />
+Linux – <span style="color: #ff6600;"><a style="color: #ff6600;" href="https://d3op4twapqdg5r.cloudfront.net/SuperCryptoKart-v2.2.0.tar.gz">https://d3op4twapqdg5r.cloudfront.net/SuperCryptoKart-v2.2.0.tar.gz</a></span><br />
+Android – <span style="color: #ff6600;"><a style="color: #ff6600;" href="https://d3op4twapqdg5r.cloudfront.net/SuperCryptoKart-v2.2.apk">https://d3op4twapqdg5r.cloudfront.net/SuperCryptoKart-v2.2.apk</a></span></p>
+<p><strong>Step 4:  Startup Super Crypto Kart and change to testnet option in Options-&gt;General</strong></p>
+<p><a href="./../../../wp-content/uploads/2020/09/testnet-option.jpg"><img loading="lazy" class="alignleft wp-image-2191" src="./../../../wp-content/uploads/2020/09/testnet-option.jpg" alt="" width="600" height="338" /></a></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p><strong>Step 5:  Restart Super Crypto Kart and create a new username, or use your existing username if you played previous releases.</strong></p>
+<p>Congratulations!  You are now ready to play online!</p>
+<p><strong>We recommend you also up the graphics and blur levels to max in Options-&gt;Graphics.  </strong></p>The post <a href="./../../../how-to-play-on-matic-testnet/index.html">How to Play on MATIC Testnet</a> first appeared on <a href="./../../../index.html">Chain Games</a>.]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

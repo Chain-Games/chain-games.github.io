@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Super Crypto Kart | Chain Games</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
+	<description></description>
+	<lastBuildDate>Thu, 22 Oct 2020 08:27:16 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7</generator>
+	<item>
+		<title>How to Play on MATIC Mainnet</title>
+		<link>./../../../how-to-play-on-matic-mainnet/index.html</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Thu, 24 Sep 2020 08:26:50 +0000</pubDate>
+				<category><![CDATA[mainnet]]></category>
+		<category><![CDATA[Super Crypto Kart]]></category>
+		<category><![CDATA[matic]]></category>
+		<category><![CDATA[super crypto kart]]></category>
+		<guid isPermaLink="false">https://dev.chaingames.io/?p=2950</guid>
+
+					<description><![CDATA[<p>We are proud to announce we have collaborated &#38; integrated with Layer 2 provider MATIC network to enable SUPER FAST and SUPER CHEAP Ethereum transactions for all games on the Chain Games decentralized gaming ecosystem providing a superior UX for all users! We are LIVE on mainnet right now with the MATIC solution and here [&#8230;]</p>
+The post <a href="./../../../how-to-play-on-matic-mainnet/index.html">How to Play on MATIC Mainnet</a> first appeared on <a href="./../../../index.html">Chain Games</a>.]]></description>
+										<content:encoded><![CDATA[<p><span style="font-weight: 400;">We are proud to announce we have collaborated &amp; integrated with Layer 2 provider <a href="https://matic.network/">MATIC network</a> to enable <em><strong>SUPER FAST</strong></em> and <em><strong>SUPER CHEAP</strong></em> Ethereum transactions for all games on the Chain Games decentralized gaming ecosystem providing a superior UX for all users!</span><span style="font-weight: 400;"><br />
+</span><span style="font-weight: 400;"><br />
+</span><span style="font-weight: 400;">We are LIVE on mainnet right now with the <strong>MATIC</strong> solution and here at <a href="https://twitter.com/RealChainGames">@RealChainGames</a> we like to under promise and over deliver!  That’s why we are bringing you the full mainnet implementation of this solution a <em><span style="text-decoration: underline;"><strong>full day early</strong></span></em> instead of our original plan of Sept 25th! <img src="https://s.w.org/images/core/emoji/13.0.1/72x72/1f973.png" alt="🥳" class="wp-smiley" style="height: 1em; max-height: 1em;" /></span></p>
+<p>It&#8217;s super easy to get started to play on mainnet!</p>
+<p>&nbsp;</p>
+<h3><strong>How to Play on MATIC Mainnet:</strong></h3>
+<p>&nbsp;</p>
+<h4><strong style="font-size: inherit;"><span style="color: #ff6600;">Step 1:</span> You will need some $ETH for gas fees and $CHAIN tokens to play.</strong></h4>
+<p><strong>BUY $CHAIN</strong> from your favorite exchange:</p>
+<p><span class="s1">Uniswap &#8211; </span><a href="https://app.uniswap.org/#/swap?outputCurrency=0xC4C2614E694cF534D407Ee49F8E44D125E4681c4">https://app.uniswap.org/#/swap?outputCurrency=0xC4C2614E694cF534D407Ee49F8E44D125E4681c4</a><span class="s1"> <img src="https://s.w.org/images/core/emoji/13.0.1/72x72/1f984.png" alt="🦄" class="wp-smiley" style="height: 1em; max-height: 1em;" /><br />
+</span><span class="s1">ProBit &#8211; </span><a href="https://www.probit.com/app/exchange/CHAIN-USDT">https://www.probit.com/app/exchange/CHAIN-USDT</a><span class="s1"> <img src="https://s.w.org/images/core/emoji/13.0.1/72x72/1f4b9.png" alt="💹" class="wp-smiley" style="height: 1em; max-height: 1em;" /><br />
+</span><span class="s1">Bilaxy &#8211; </span><a href="https://bilaxy.com/trade/CHAIN_ETH">https://bilaxy.com/trade/CHAIN_ETH</a><span class="s1"> <img src="https://s.w.org/images/core/emoji/13.0.1/72x72/1f4b1.png" alt="💱" class="wp-smiley" style="height: 1em; max-height: 1em;" /><br />
+</span>Multi.io<span class="s1"> &#8211; </span><a href="https://multi.io/en/trading/exchange/CHAINUSDT">https://multi.io/en/trading/exchange/CHAINUSDT</a><span class="s1"> <img src="https://s.w.org/images/core/emoji/13.0.1/72x72/1f4b0.png" alt="💰" class="wp-smiley" style="height: 1em; max-height: 1em;" /></span></p>
+<p>&nbsp;</p>
+<h4><strong><span style="color: #ff6600;">Step 2:</span> Fund your gaming session &#8211; <a href="https://wallet.chaingames.io/">https://wallet.chaingames.io/</a></strong></h4>
+<p>We recommend allocating quite a bit so you have enough for future gaming sessions as well and can avoid paying additional ETH gas fees. This is the longest part of the process as it will transfer the tokens from ETH Layer 1 to MATIC Layer 2. It can take up to 5 minutes to complete. We are working on an instant cross-chain function to make this process MUCH quicker, but for now, just wait patiently <img src="https://s.w.org/images/core/emoji/13.0.1/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<p>&nbsp;</p>
+<h4><strong><span style="color: #ff6600;">Step 3:</span> Download and install Super Crypto Kart for your desired platform:</strong></h4>
+<p>Windows &#8211; <a href="https://d3op4twapqdg5r.cloudfront.net/SuperCryptoKart-v2.2.0-installer-64bit.exe">https://d3op4twapqdg5r.cloudfront.net/SuperCryptoKart-v2.2.0-installer-64bit.exe</a><br />
+Mac OS &#8211; <a href="https://d3op4twapqdg5r.cloudfront.net/SuperCryptoKart-v2.2.0.dmg">https://d3op4twapqdg5r.cloudfront.net/SuperCryptoKart-v2.2.0.dmg</a><br />
+Linux &#8211; <a href="https://d3op4twapqdg5r.cloudfront.net/SuperCryptoKart-v2.2.0.tar.gz">https://d3op4twapqdg5r.cloudfront.net/SuperCryptoKart-v2.2.0.tar.gz</a><br />
+Android &#8211; <a href="https://d3op4twapqdg5r.cloudfront.net/SuperCryptoKart-v2.2.apk">https://d3op4twapqdg5r.cloudfront.net/SuperCryptoKart-v2.2.apk</a></p>
+<p>&nbsp;</p>
+<h4><strong><span style="color: #ff6600;"><a href="./../../../wp-content/uploads/2020/09/wallet-sck.jpg"><img loading="lazy" class="alignleft wp-image-2231 size-full" src="./../../../wp-content/uploads/2020/09/wallet-sck-img.jpg" alt="" width="300" height="225" /></a>Step 4:</span> Start Super Crypto Kart and create a new username, or use your existing username if you played previous releases.</strong></h4>
+<p>Once logged in, select &#8220;Online&#8221; icon on home screen, and then select &#8220;Your Profile&#8221; icon.  Ensure your wallet address and approved $CHAIN amount are listed.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p class="p1"><strong>Make sure you turn your graphics to max!<span class="Apple-converted-space">  </span>Options -&gt; Graphics</strong></p>
+<p class="p1"><strong><img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2705.png" alt="✅" class="wp-smiley" style="height: 1em; max-height: 1em;" /> Change:<span class="Apple-converted-space">  </span>Graphical Effects Level -&gt; 6</strong></p>
+<p class="p1"><strong><img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2705.png" alt="✅" class="wp-smiley" style="height: 1em; max-height: 1em;" /> Change:<span class="Apple-converted-space">  </span>Blur Effects Level -&gt; 2</strong></p>
+<p>&nbsp;</p>
+<p>Congratulations!  You are now ready to play online! <img src="https://s.w.org/images/core/emoji/13.0.1/72x72/1f929.png" alt="🤩" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<p>For additional questions/help please join us on <a href="https://discord.gg/wAyMde8">Discord</a> or <a href="https://t.me/chaingames">Telegram</a>.</p>The post <a href="./../../../how-to-play-on-matic-mainnet/index.html">How to Play on MATIC Mainnet</a> first appeared on <a href="./../../../index.html">Chain Games</a>.]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>How to Play on MATIC Testnet</title>
+		<link>./../../../how-to-play-on-matic-testnet/index.html</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Fri, 04 Sep 2020 20:25:51 +0000</pubDate>
+				<category><![CDATA[Super Crypto Kart]]></category>
+		<category><![CDATA[testnet]]></category>
+		<category><![CDATA[matic]]></category>
+		<category><![CDATA[super crypto kart]]></category>
+		<guid isPermaLink="false">https://dev.chaingames.io/?p=1</guid>
+
+					<description><![CDATA[<p>We are proud to announce we have collaborated &#38; integrated with Layer 2 provider MATIC network to enable SUPER FAST and SUPER CHEAP Ethereum transactions for all games on the Chain Games decentralized gaming ecosystem providing a superior UX for all users! We are LIVE on testnet right now with the MATIC solution and here [&#8230;]</p>
+The post <a href="./../../../how-to-play-on-matic-testnet/index.html">How to Play on MATIC Testnet</a> first appeared on <a href="./../../../index.html">Chain Games</a>.]]></description>
+										<content:encoded><![CDATA[<p><span style="font-weight: 400;">We are proud to announce we have collaborated &amp; integrated with Layer 2 provider <span style="color: #ff6600;"><a style="color: #ff6600;" href="https://matic.network/">MATIC network</a></span> to enable <em><strong>SUPER FAST</strong></em> and <em><strong>SUPER CHEAP</strong></em> Ethereum transactions for all games on the Chain Games decentralized gaming ecosystem providing a superior UX for all users!</span><span style="font-weight: 400;"><br />
+</span><span style="font-weight: 400;"><br />
+</span><span style="font-weight: 400;">We are LIVE on testnet right now with the <strong>MATIC</strong> solution and here at <span style="color: #ff6600;"><a style="color: #ff6600;" href="https://twitter.com/RealChainGames">@RealChainGames</a></span> we like to under promise and over deliver!  That’s why we are bringing you the full mainnet implementation of this solution a full day early and will be releasing it <em><strong>tomorrow</strong></em> Sept 24th instead of our original plan of Sept 25th!</span></p>
+<p>It&#8217;s super easy to get started to play on testnet until mainnet is released tomorrow.</p>
+<h3><strong>How to Setup Your Environment for MATIC Testnet Play:</strong></h3>
+<p><strong style="font-size: inherit;">Step 1: You will next need some testnet $ETH and testnet $CHAIN.  Make sure you switch your Metamask to &#8220;<span style="color: #ff6600;"><a style="color: #ff6600;" href="./../../../wp-content/uploads/2020/10/goerli.png">Goerli Test Network</a></span>&#8220;.</strong></p>
+<p>Testnet <strong>$ETH</strong> &#8211; <a href="https://goerli-faucet.slock.it/"><span style="color: #ff6600;">https://goerli-faucet.slock.it/</span></a> or from <span style="color: #ff6600;"><a style="color: #ff6600;" href="https://faucet.goerli.mudit.blog/">https://faucet.goerli.mudit.blog/</a></span></p>
+<p>Testnet <strong>$CHAIN</strong> &#8211; <span style="color: #ff6600;"><a style="color: #ff6600;" href="https://faucet.chaingames.io/">https://faucet.chaingames.io/</a></span></p>
+<p><strong>Step 2: Fund your gaming session &#8211; </strong><span style="color: #ff6600;"><a style="color: #ff6600;" href="https://wallet-testnet.chaingames.io/">https://wallet-testnet.chaingames.io/</a></span></p>
+<p><strong>Step 3: Download and install Super Crypto Kart for your desired platform:</strong></p>
+<p>Windows – <span style="color: #ff6600;"><a style="color: #ff6600;" href="https://d3op4twapqdg5r.cloudfront.net/SuperCryptoKart-v2.2.0-installer-64bit.exe">https://d3op4twapqdg5r.cloudfront.net/SuperCryptoKart-v2.2.0-installer-64bit.exe</a></span><br />
+Mac OS – <span style="color: #ff6600;"><a style="color: #ff6600;" href="https://d3op4twapqdg5r.cloudfront.net/SuperCryptoKart-v2.2.0.dmg">https://d3op4twapqdg5r.cloudfront.net/SuperCryptoKart-v2.2.0.dmg</a></span><br />
+Linux – <span style="color: #ff6600;"><a style="color: #ff6600;" href="https://d3op4twapqdg5r.cloudfront.net/SuperCryptoKart-v2.2.0.tar.gz">https://d3op4twapqdg5r.cloudfront.net/SuperCryptoKart-v2.2.0.tar.gz</a></span><br />
+Android – <span style="color: #ff6600;"><a style="color: #ff6600;" href="https://d3op4twapqdg5r.cloudfront.net/SuperCryptoKart-v2.2.apk">https://d3op4twapqdg5r.cloudfront.net/SuperCryptoKart-v2.2.apk</a></span></p>
+<p><strong>Step 4:  Startup Super Crypto Kart and change to testnet option in Options-&gt;General</strong></p>
+<p><a href="./../../../wp-content/uploads/2020/09/testnet-option.jpg"><img loading="lazy" class="alignleft wp-image-2191" src="./../../../wp-content/uploads/2020/09/testnet-option.jpg" alt="" width="600" height="338" /></a></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p><strong>Step 5:  Restart Super Crypto Kart and create a new username, or use your existing username if you played previous releases.</strong></p>
+<p>Congratulations!  You are now ready to play online!</p>
+<p><strong>We recommend you also up the graphics and blur levels to max in Options-&gt;Graphics.  </strong></p>The post <a href="./../../../how-to-play-on-matic-testnet/index.html">How to Play on MATIC Testnet</a> first appeared on <a href="./../../../index.html">Chain Games</a>.]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>
